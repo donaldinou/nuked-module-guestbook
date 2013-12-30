@@ -23,7 +23,7 @@
     "autoload": {
         "psr-0": { "": "src/" }
     },
-    "target-dir": "modules/guestbook",
+    "target-dir": "modules/Guestbook",
     "minimum-stability": "dev",
     "prefer-stable": true
 }
